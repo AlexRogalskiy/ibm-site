@@ -1,0 +1,148 @@
+- title: Get started
+  pages:
+    - title: Overview
+      path: /get-started
+    - title: Designing
+      path: /get-started/designing
+    - title: Coding
+      path: /get-started/coding
+- title: Guidelines
+  pages:
+    - title: Overview
+      path: /guidelines
+    - title: Expressive Theme
+      path: /guidelines/expressive-theme
+#    - title: Color
+#      path: /guidelines/color
+#    - title: Grid
+#      path: /guidelines/grid
+#    - title: Frameworks
+#      path: /guidelines/frameworks
+#    - title: Icons
+#      path: /guidelines/icons
+#    - title: Infographics
+#      path: /guidelines/infographics
+#    - title: Layout
+#      path: /guidelines/layout
+#    - title: Photography
+#      path: /guidelines/photography
+#    - title: Social & sharing
+#      path: /guidelines/social-sharing
+#    - title: Themes
+#      path: /guidelines/themes
+#    - title: Type
+#      path: /guidelines/type
+- title: Components
+  pages:
+    - title: Overview
+      path: /components
+    #    - title: Button
+    #      path: /components/button
+    #    - title: Checkbox
+    #      path: /components/checkbox
+    #    - title: Dropdown
+    #      path: /components/dropdown
+    - title: Footer
+      path: /components/footer
+    #    - title: Link
+    #      path: /components/link
+    #    - title: List
+    #      path: /components/list
+    #    - title: Locale selector
+    #      path: /components/locale-selector
+    - title: Masthead
+      path: /components/masthead
+#    - title: Modal
+#      path: /components/modal
+#    - title: Number picker
+#      path: /components/number-picker
+#    - title: Pagination
+#      path: /components/pagination
+#    - title: Radio button
+#      path: /components/radio-button
+#    - title: Search
+#      path: /components/search
+#    - title: Tabs
+#      path: /components/tabs
+#    - title: Tag
+#      path: /components/tag
+#    - title: Text input
+#      path: /components/text-input
+#    - title: tooltips
+#      path: /components/tooltips
+- title: Layout patterns
+  pages:
+    - title: Overview
+      path: /patterns
+    - title: Callout – quote
+      path: /patterns/callout-quote
+    - title: Callout – with media
+      path: /patterns/callout-with-media 
+    - title: Card section
+      path: /patterns/card-section
+#    - title: Content block – cards
+#      path: /patterns/content-block-cards      
+#    - title: Content block – with media
+#      path: /patterns/content-block-with-media    
+#    - title: Content block – with mixed
+#      path: /patterns/content-block-with-mixed   
+#    - title: Content block – with segmented
+#      path: /patterns/content-block-with-segmented 
+    - title: Content block – simple
+      path: /patterns/content-block-simple     
+    - title: Content group – with cards
+      path: /patterns/contentgroupcards
+    - title: Content group – horizontal
+      path: /patterns/content-group-horizontal 
+    - title: Content group – with pictograms
+      path: /patterns/content-group-pictograms      
+    - title: Content group – simple
+      path: /patterns/content-group-simple
+    - title: CTA section
+      path: /patterns/cta-section
+    - title: Feature card block
+      path: /patterns/feature-card-block
+    - title: Lead space
+      path: /patterns/leadspace
+    - title: Lead space – block
+      path: /patterns/lead-space-block    
+    - title: Logo grid
+      path: /patterns/logo-grid-rich     
+- title: Contributions
+  pages:
+    - path: /contributions
+#    - title: Overview
+#      path: /contributions
+#    - title: Bugs & requests
+#      path: /contributions/bugs-requests
+#    - title: Documentation
+#      path: /contributions/documentation
+#    - title: Components
+#      path: /contributions/components
+#    - title: Patterns
+#      path: /contributions/patterns
+#    - title: Add-ons
+#      path: /contributions/add-ons
+- title: Resources
+  pages:
+    - path: /resources
+#    - title: Overview
+#      path: /resources
+#    - title: Design kit
+#      path: /resources/design-kit
+#    - title: Drupal
+#      path: /resources/drupal
+#    - title: IBM.com Library
+#      path: /resources/ibm-dotcom-library
+#    - title: Research
+#      path: /resources/research
+#    - title: Repositories
+#      path: /resources/repositories
+#    - title: Starter Kit
+#      path: /resources/starter-kit
+- title: Help
+  pages:
+    - title: Overview
+      path: /help
+    - title: FAQ
+      path: /help/faqs
